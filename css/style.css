@@ -1,0 +1,36 @@
+body{margin:0;padding:0;}
+a{color:#666666;}
+a:hover{color:#ab1c12;}
+li{list-style:none;}
+img{border:0 none;vertical-align:top;}
+body{font-family:"微软雅黑";font-size:14px;background:url(../img/bg.jpg);}
+/*头部*/
+#header{width:100%;height:780px;background:url(../img/header-bg.jpg) no-repeat center top;}
+.header-list{padding:352px 0 0 68px;}
+.header-list li{padding-left:14px;line-height:23px;background:url(../img/header-01.png) no-repeat 0px 8px;}
+/*任务1*/
+.task{border:1px dashed #bdab85;background-color: #fdfaf4;}
+#task1{height:576px;margin-top:-273px;background-image:url(../img/task1-1.jpg);background-repeat: no-repeat;}
+.task-list{margin:132px 0 0 662px;}
+.task-list dt{line-height:38px;color:#333;font-size:18px;}
+.task-list dd{line-height:31px;margin-left:-2px;}
+.task-btn{display:block;margin:99px 0 0 664px;width:166px;height:45px;background-image: url(../img/task-btn.png);background-repeat:no-repeat;text-indent:-99em;overflow:hidden;}
+/*任务2*/
+#task2{height:487px;margin-top:24px;background-image:url(../img/task2-1.jpg);background-repeat: no-repeat;}
+.task2-list{margin:132px 0 0 662px;}
+.task2-list dt{line-height:38px;color:#333;font-size:18px;}
+.task2-list dd{line-height:31px;margin-left:-2px;}
+.task2-btn{display:block;margin:66px 0 0 664px;width:166px;height:43px;background-image: url(../img/task2-btn.png);background-repeat:no-repeat;text-indent:-99em;overflow:hidden;}
+/*任务3*/
+#task3{height:575px;margin-top:26px;background-image:url(../img/task3-1.jpg);background-repeat: no-repeat;}
+.task3-list{margin:106px 0 0 662px;}
+.task3-list dt{line-height:38px;color:#333;font-size:18px;}
+.task3-list dd{line-height:31px;margin-left:-2px;width:270px;}
+.task3-btn{display:block;margin:80px 0 0 664px;width:166px;height:45px;background-image: url(../img/task3-btn.png);background-repeat:no-repeat;text-indent:-99em;overflow:hidden;}
+/*活动奖励*/
+#task4{height:182px;background-image:url(../img/task4.png);background-repeat: no-repeat;margin-top:26px;margin-left:183px;border:1px dashed #bdab85;}
+.task4-li{color:#949391;font-size:14px;padding-top:80px;line-height:27px;padding-left:80px;}
+/*公共类*/
+.layer{width:984px;height:auto;margin:0 auto;}
+.red{color:red;}
+
